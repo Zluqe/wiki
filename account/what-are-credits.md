@@ -1,7 +1,7 @@
 ---
 prev:
   text: 'How to create a server'
-  link: 'wiki/account/create-a-account'
+  link: 'wiki/account/make-a-account'
 next:
   text: 'Coming Soon'
   link: 'wiki/account/what-are-credits'
