@@ -1,8 +1,6 @@
 # What Are Credits?
 
-Credits are the main currency on Zluqe that allow you to manage and expand your servers. Here's everything you need to know about how credits work:
-
----
+Credits are the main currency on Zluqe that allows you to manage and expand your servers. Here's everything you need to know about how credits work:
 
 ## How to Earn Credits
 1. **Activity on the Panel**:
