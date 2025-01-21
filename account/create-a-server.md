@@ -1,3 +1,12 @@
+---
+prev:
+  text: 'Register'
+  link: 'wiki/account/create-a-account'
+next:
+  text: 'What Are Credits'
+  link: 'wiki/account/what-are-credits'
+---
+
 # How to Make a Server on Zluqe
 
 After registering on Zluqe, you can create your own server easily. Follow these steps to set up your server and customize it to your needs.
