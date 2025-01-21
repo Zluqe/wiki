@@ -1,7 +1,7 @@
 ---
 prev:
   text: 'Register'
-  link: 'wiki/account/create-a-account'
+  link: 'wiki/account/make-a-account'
 next:
   text: 'What Are Credits'
   link: 'wiki/account/what-are-credits'
