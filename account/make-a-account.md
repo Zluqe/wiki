@@ -1,3 +1,9 @@
+---
+next:
+  text: 'How to create a server'
+  link: 'wiki/account/create-a-server'
+---
+
 # How to Register on Zluqe
 
 Registering on Zluqe is a simple process! Follow the steps below to get started:
