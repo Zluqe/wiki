@@ -19,3 +19,9 @@ Registering on Zluqe is a simple process! Follow the steps below to get started:
 1. Login page! ![image](https://github.com/user-attachments/assets/be4713cc-8e2d-4430-a038-5e44dd827244)
 2. Authorize with discord! ![image](https://github.com/user-attachments/assets/3f43ba36-159e-4e84-9e15-4ea70b57bc11)
 3. Your new panel! ![image](https://github.com/user-attachments/assets/bce8690c-6b62-4b2d-9c1c-3d5f95b91006)
+
+---
+prev:
+  text: 'Create a Server'
+  link: '/wiki/account/create-a-server'
+---
