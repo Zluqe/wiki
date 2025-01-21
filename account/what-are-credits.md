@@ -1,3 +1,11 @@
+---
+prev:
+  text: 'How to create a server'
+  link: 'wiki/account/create-a-account'
+next:
+  text: 'Coming Soon'
+  link: 'wiki/account/what-are-credits'
+---
 # What Are Credits?
 
 Credits are the main currency on Zluqe that allows you to manage and expand your servers. Here's everything you need to know about how credits work:
