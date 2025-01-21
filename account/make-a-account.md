@@ -19,5 +19,3 @@ Registering on Zluqe is a simple process! Follow the steps below to get started:
 
 ### Additional Information
 - **What you need**: A Discord account.
-  
----
