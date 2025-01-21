@@ -11,8 +11,6 @@ next:
 
 After registering on Zluqe, you can create your own server easily. Follow these steps to set up your server and customize it to your needs.
 
----
-
 ## Steps to Create a Server
 1. **Navigate to the Server Creation Page**:
    - Go to the side panel on the Zluqe Panel ([Zluqe Panel](https://panel.zluqe.org/)).
