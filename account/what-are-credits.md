@@ -3,8 +3,8 @@ prev:
   text: 'How to create a server'
   link: 'wiki/account/make-a-account'
 next:
-  text: 'Coming Soon'
-  link: 'wiki/account/what-are-credits'
+  text: 'Earn More Credits'
+  link: 'wiki/account/earn-more-credits'
 ---
 # What Are Credits?
 
