@@ -56,8 +56,8 @@ export default defineConfig({
         {
           text: 'Examples',
           items: [
-            { text: 'Markdown Examples',    link: '/markdown-examples' },
-            { text: 'Runtime API Examples', link: '/api-examples' }
+            { text: 'Get Started',    link: '/account/make-a-account' },
+            { text: 'Discord', link: 'https://zluqe.org/discord' }
           ]
         }
       ]
