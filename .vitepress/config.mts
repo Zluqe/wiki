@@ -6,7 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Account', link: '/account' }
     ],
     sidebar: [
       {
