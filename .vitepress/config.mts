@@ -52,15 +52,6 @@ export default defineConfig({
           ]
         }
       ],
-      '/': [
-        {
-          text: 'Examples',
-          items: [
-            { text: 'Get Started',    link: '/account/make-a-account' },
-            { text: 'Discord', link: 'https://zluqe.org/discord' }
-          ]
-        }
-      ]
     },
 
     socialLinks: [
