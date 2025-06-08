@@ -18,18 +18,16 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Zluqe' }
     ]
   },
   vite: {
     server: {
-      // listen on all interfaces (if you need LAN access)
       host: '0.0.0.0',
       // allow your custom hostname
       allowedHosts: ['wiki.zluqe.org']
     },
     preview: {
-      // apply same settings to `vitepress preview`
       host: '0.0.0.0',
       allowedHosts: ['wiki.zluqe.org']
     }
