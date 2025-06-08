@@ -34,7 +34,7 @@ export default defineConfig({
           { text: 'Website', link: 'https://zluqe.org', icon: 'Website' },
           { text: 'Panel', link: 'https://panel.zluqe.org', icon: 'Panel' },
           { text: 'Status', link: 'https://status.zluqe.org', icon: 'Status' },
-          { text: 'Discord', link: 'https://discord.gg/zluqe', icon: 'Discord' }
+          { text: 'Discord', link: 'https://zluqe.org/discord', icon: 'Discord' }
         ]
       }
     ],
