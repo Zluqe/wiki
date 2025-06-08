@@ -31,7 +31,10 @@ export default defineConfig({
       {
         text: 'Links',
         items: [
-          { text: 'GitHub', link: 'https://github.com/Zluqe', icon: 'github' }
+          { text: 'Website', link: 'https://zluqe.org', icon: 'Website' },
+          { text: 'Panel', link: 'https://panel.zluqe.org', icon: 'Panel' },
+          { text: 'Status', link: 'https://status.zluqe.org', icon: 'Status' },
+          { text: 'Discord', link: 'https://discord.gg/zluqe', icon: 'Discord' }
         ]
       }
     ],
