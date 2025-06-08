@@ -29,13 +29,11 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Examples',
+        text: 'Links',
         items: [
-          { text: 'Markdown Examples',     link: '/markdown-examples' },
-          { text: 'Runtime API Examples',  link: '/api-examples' }
+          { text: 'GitHub', link: 'https://github.com/Zluqe', icon: 'github' }
         ]
-      },
-      { text: 'GitHub', link: 'https://github.com/Zluqe', icon: 'github' }
+      }
     ],
 
     sidebar: {

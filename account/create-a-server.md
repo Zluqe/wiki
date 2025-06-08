@@ -1,10 +1,10 @@
 ---
 prev:
   text: 'Register'
-  link: 'wiki/account/make-a-account'
+  link: '/account/make-a-account'
 next:
   text: 'What Are Credits'
-  link: 'wiki/account/what-are-credits'
+  link: '/account/what-are-credits'
 ---
 
 # How to Make a Server on Zluqe

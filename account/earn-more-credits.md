@@ -1,10 +1,10 @@
 ---
 prev:
   text: 'What are Credits'
-  link: 'wiki/account/what-are-credits'
+  link: '/account/what-are-credits'
 next:
   text: 'Coming Soon'
-  link: 'wiki/account/earn-more-credits'
+  link: '/account/earn-more-credits'
 ---
 
 # Earn Credits & More resources

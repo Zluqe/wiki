@@ -1,7 +1,7 @@
 ---
 next:
   text: 'How to create a server'
-  link: 'wiki/account/create-a-server'
+  link: '/account/create-a-server'
 ---
 
 # How to Register on Zluqe
