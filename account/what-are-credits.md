@@ -6,7 +6,7 @@ next:
   text: 'Earn More Credits'
   link: '/account/earn-more-credits'
 ---
-# What Are Credits? test
+# What Are Credits?
 
 Credits are the main currency on Zluqe that allows you to manage and expand your servers. Here's everything you need to know about how credits work:
 
